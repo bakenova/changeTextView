@@ -9,6 +9,6 @@ import Foundation
 
 public struct TextViewClass {
     public static func getText() -> String {
-        return "Here is another text for the textview"
+        return "Here is another text for the textview!!!"
     }
 }
