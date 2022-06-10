@@ -1,0 +1,16 @@
+PODS:
+  - ChangeTextView (1.0.0)
+
+DEPENDENCIES:
+  - ChangeTextView (from `../changeTextView/changeTextView`)
+
+EXTERNAL SOURCES:
+  ChangeTextView:
+    :path: "../changeTextView/changeTextView"
+
+SPEC CHECKSUMS:
+  ChangeTextView: 2fd5e20a90086d29c1afdf050cfee85ae8559fb8
+
+PODFILE CHECKSUM: 1248494d325f4d70a45281519584f9b72c0d6bfc
+
+COCOAPODS: 1.11.3

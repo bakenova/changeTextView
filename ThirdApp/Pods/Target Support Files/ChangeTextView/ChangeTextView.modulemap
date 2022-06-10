@@ -1,0 +1,6 @@
+framework module ChangeTextView {
+  umbrella header "ChangeTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}
